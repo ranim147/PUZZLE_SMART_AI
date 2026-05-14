@@ -6,7 +6,7 @@ Le notebook original reste conserve tel quel. Le projet local reprend la partie 
 
 ## Fonctionnalites finales
 
-- Chargement du dataset local depuis `archive/`
+- Chargement du dataset local depuis `Kaggle Children Drawings Dataset (`vishmiperera/children-drawings``
 - Generation d'un puzzle depuis une image aleatoire
 - Pieces de puzzle melangees
 - Une piece manquante cachee dans le puzzle
