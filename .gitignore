@@ -1,0 +1,13 @@
+archive/
+archive.zip
+SmartPuzzleAI_merged_model_final/
+models/
+modeles/
+modèles/
+
+__pycache__/
+*.py[cod]
+
+gradio.log
+gradio.err
+outputs/

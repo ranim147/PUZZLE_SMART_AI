@@ -1,0 +1,2 @@
+"""SmartPuzzleAI local project."""
+
